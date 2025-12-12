@@ -1,0 +1,188 @@
+[
+    {
+        "game": "Game1",
+        "timestamp": "2025-10-30 11:18:02",
+        "white": 1185,
+        "black": 1216
+    },
+    {
+        "game": "Game2",
+        "timestamp": "2025-10-30 11:19:23",
+        "white": 1202,
+        "black": 1199
+    },
+    {
+        "game": "Game3",
+        "timestamp": "2025-11-04 20:27:56",
+        "white": 1202,
+        "black": 1199
+    },
+    {
+        "game": "Game4",
+        "timestamp": "2025-11-04 20:36:52",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1202,
+        "black": 1199
+    },
+    {
+        "game": "Game5",
+        "timestamp": "2025-11-04 20:37:30",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1234,
+        "black": 1170
+    },
+    {
+        "game": "Game6",
+        "timestamp": "2025-11-05 10:26:39",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1260,
+        "black": 800
+    },
+    {
+        "game": "Game7",
+        "timestamp": "2025-11-05 10:27:20",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1202,
+        "black": 860
+    },
+    {
+        "game": "Game8",
+        "timestamp": "2025-11-05 10:30:46",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1210,
+        "black": 852
+    },
+    {
+        "game": "Game9",
+        "timestamp": "2025-11-05 10:31:56",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1200,
+        "black": 845
+    },
+    {
+        "game": "Game10",
+        "timestamp": "2025-11-05 10:36:34",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1000,
+        "black": 800
+    },
+    {
+        "game": "Game11",
+        "timestamp": "2025-11-05 10:37:47",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1015,
+        "black": 786
+    },
+    {
+        "game": "Game12",
+        "timestamp": "2025-11-05 10:38:27",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1100,
+        "black": 773
+    },
+    {
+        "game": "Game13",
+        "timestamp": "2025-11-05 10:40:04",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1108,
+        "black": 765
+    },
+    {
+        "game": "Game14",
+        "timestamp": "2025-11-05 10:49:26",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 700,
+        "black": 758
+    },
+    {
+        "game": "Game15",
+        "timestamp": "2025-11-05 10:50:26",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 705,
+        "black": 1100
+    },
+    {
+        "game": "Game16",
+        "timestamp": "2025-11-05 10:50:52",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 699,
+        "black": 1106
+    },
+    {
+        "game": "Game17",
+        "timestamp": "2025-11-05 11:52:11",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 694,
+        "black": 1112
+    },
+    {
+        "game": "Game18",
+        "timestamp": "2025-11-05 11:53:24",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 689,
+        "black": 1500
+    },
+    {
+        "game": "Game19",
+        "timestamp": "2025-11-05 11:54:57",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 1152,
+        "black": 1437
+    },
+    {
+        "game": "Game20",
+        "timestamp": "2025-11-05 11:56:36",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 600,
+        "black": 1386
+    },
+    {
+        "game": "Game21",
+        "timestamp": "2025-11-05 12:02:05",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 599,
+        "black": 1187
+    },
+    {
+        "game": "Game22",
+        "timestamp": "2025-11-05 12:09:43",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 629,
+        "black": 1157
+    },
+    {
+        "game": "Game23",
+        "timestamp": "2025-11-07 12:55:18",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 690,
+        "black": 1097
+    },
+    {
+        "game": "Game24",
+        "timestamp": "2025-11-07 15:39:56",
+        "white_name": "White",
+        "black_name": "Black",
+        "white": 748,
+        "black": 1041
+    }
+]
